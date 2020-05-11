@@ -46,7 +46,7 @@ Obviously, despite the loss "converged" after 50 epochs, the performance of our 
 
 The main notebook, summarizing our results is ```sinkhorn_gan.ipynb```. Further details on our approach and trials can be found in the notebooks ```autodiff_ot_gan.ipynb``` and ```autodiff_ot_gan_checkpoint.ipynb``` located in the ```draft``` folder. 
 
-The folder ```vanilla_gan.ipynb``` contains the notebook and the necessary helpers to replicate the standard GAN we intended to use as a benchmark. Since training can be long, a pretrained model (```generator.pkl```) and the generated samples (```train_samples.pkl```) can be found in the ```model``` folder. This model was trained with the 
+The folder ```vanilla_gan.ipynb``` contains the notebook and the necessary helpers to replicate the standard GAN we intended to use as a benchmark. Since training can be long, a pretrained model (```generator.pkl```) and the generated samples (```train_samples.pkl```) can be found in the ```model``` folder.
 
 Finally, the folder ```report``` contains our report on this project. This report introduces some theory, presents our approach and describes the architecture of our different networks. The folder ```img``` contains the images generated during training the models. 
 
