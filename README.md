@@ -40,7 +40,7 @@ The loss during traning evolved as follows :
   <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/losses_summary_notebook.png">
 </p>
 
-Obviously, the performance of our model can be increased. We present several reasons why our approach failed in the report and the notebook ```sinkhorn_gan.ipynb```
+Obviously, despite the loss "converged" after 50 epochs, the performance of our model can be increased. We present several reasons why our approach failed in the report and the notebook ```sinkhorn_gan.ipynb```.
 
 ## Organization of the repository 
 
