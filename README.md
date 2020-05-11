@@ -1,5 +1,7 @@
 # Optimal Transport ENSAE
 
+Gabriel Kasmi, Hugo Thimonier - 3A DSSA
+
 ## Summary and results
 
 <p> 
