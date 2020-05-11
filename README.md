@@ -33,7 +33,7 @@ Here are some benchmark images :
 And some samples on our trained model : 
 
 <p align="center">
-  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/progress_b2048.png.png" width="200"/>
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/progress_b2048.png" width="200"/>
   <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200"/> 
   <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/version_correcte_matrice_sur_batch_lr_02.png" width="200"/>
 </p>
