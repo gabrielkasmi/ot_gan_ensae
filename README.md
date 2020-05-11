@@ -56,7 +56,7 @@ The folder ```vanilla_gan``` contains the notebook and the necessary helpers to 
 
 Finally, the folder ```report``` contains our report on this project. This report introduces some theory, presents our approach and describes the architecture of our different networks. The folder ```img``` contains the images generated during training the models. 
 
-All notebook feature a link that enables them to be opened in Google Colab. <b> Cuda is mandatory to run the ```sinkhorn_gan.ipynb``` notebook. </b>
+All notebooks feature a link that enables them to be opened in Google Colab. <b> Cuda is mandatory to run the ```sinkhorn_gan.ipynb``` notebook. </b>
 
 
 
