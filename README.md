@@ -31,7 +31,7 @@ Here are some benchmark images :
 And some samples on our trained model : 
 
 <p align="center">
-  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png">
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200">
 </p>
 
 The loss during traning evolved as follows : 
