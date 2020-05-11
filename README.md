@@ -1,6 +1,6 @@
 # Optimal Transport ENSAE
 
-## Overall presentation 
+## Summary and results
 
 <p> 
 This repository contains all the necessary material used for the implementation of OT-GAN. We tried to replicate the results from Genevay et al's 'Learning Generative Models with Sinkhorn Divergences' (2017) paper. More precisely, we focus on the MNIST experiment. 
