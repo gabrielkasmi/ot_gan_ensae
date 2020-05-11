@@ -32,19 +32,10 @@ Here are some benchmark images :
 
 And some samples on our trained model : 
 
-<p align="center">
-  
-  <div class="row">
-  <div class="column">
-    <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200">
-  </div>
-  <div class="column">
-    <img src=""https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200">
-  </div>
-  <div class="column">
-    <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200">
-  </div>
-</div>
+<p float="left">
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200"/>
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200"/> 
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png" width="200"/>
 </p>
 
 The loss during traning evolved as follows : 
