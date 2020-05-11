@@ -25,19 +25,19 @@ Our approach is the following :
 Here are some benchmark images : 
 
 <p align="center">
-  <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/Discriminator.png">
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_images.png">
 </p>
 
 And some samples on our trained model : 
 
 <p align="center">
-  <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/Discriminator.png">
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/generated_ot_gan_mnist.png">
 </p>
 
 The loss during traning evolved as follows : 
 
 <p align="center">
-  <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/Discriminator.png">
+  <img src="https://github.com/gabrielkasmi/ot_gan_ensae/blob/master/img/losses_summary_notebook.png">
 </p>
 
 Obviously, the performance of our model can be increased. We present several reasons why our approach failed in the report and the notebook ```sinkhorn_gan.ipynb```
@@ -48,7 +48,7 @@ The main notebook, summarizing our results is ```sinkhorn_gan.ipynb```. Further 
 
 The folder ```vanilla_gan.ipynb``` contains the notebook and the necessary helpers to replicate the standard GAN we intended to use as a benchmark. Since training can be long, a pretrained model (```generator.pkl```) and the generated samples (```train_samples.pkl```) can be found in the ```model``` folder. This model was trained with the 
 
-Finally, the folder ```report``` contains our report on this project. This report introduces some theory, presents our approach and describes the architecture of our different networks. 
+Finally, the folder ```report``` contains our report on this project. This report introduces some theory, presents our approach and describes the architecture of our different networks. The folder ```img``` contains the images generated during training the models. 
 
 All notebook feature a link that enables them to be opened in Google Colab. <b> Cuda is mandatory to run the ```sinkhorn_gan.ipynb``` notebook. </b>
 
